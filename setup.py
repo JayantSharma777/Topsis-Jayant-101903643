@@ -14,7 +14,7 @@ setup(
   description = 'Topsis package python',   # Give a short description about your library
   author = 'Jayant Sharma',                   # Type in your name
   author_email = 'jsharma1_be19@thapar.edu',      # Type in your E-Mail
-  url = 'https://github.com/JayantSharma777/101903643-topsis',   # Provide either the link to your github or to your website
+  url = 'https://github.com/JayantSharma777/Topsis-Jayant-101903643',   # Provide either the link to your github or to your website
   download_url='https://github.com/JayantSharma777/Topsis-Jayant-101903643/archive/refs/tags/v_0.1.tar.gz',
   Keywords = ['Python', 'Topsis', '101903643'],   # Keywords that define your package best
           
